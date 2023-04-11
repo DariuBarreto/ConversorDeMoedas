@@ -1,0 +1,33 @@
+    body {
+      font-family: Arial, sans-serif;
+      background-image: url();
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+    .container{
+      background-color: #fff;
+      padding: 2rem;
+      border-radius: 1rem;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      text-align: center;
+    }
+    h1 {
+      margin-bottom: 1rem;
+    }
+    input, select {
+      padding: 0.5rem;
+      font-size: 1rem;
+      margin: 0.25rem 0;
+      display: block;
+      width: 100%;
+      border: 1px solid #ccc;
+      border-radius: 0.25rem;
+      box-sizing: border-box;
+    }
+    h2 {
+      margin-top: 1rem;
+      font-size: 1.25rem;
+    }
